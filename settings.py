@@ -1,10 +1,10 @@
 ﻿
 
-bot_token = "1129554524:AAHN-vSqcyz_BZBNsb0tQhlTr8mbUXp6_ns" # токен бота
-LOGIN_BOT = @BIBABOBAMARKETBOT # логин бота
+bot_token = 'token' # токен бота
+LOGIN_BOT = '@bot' # логин бота
 CHANNEL_ID = 12345689 # id канала куда будет отсылаться информация, ид без -100 в начале (например: 124873248)
 
-admin_id = 495000318 # id админа
+admin_id = 477046240 # id админа
 
 LOGIN_ADMIN = '@login' # тг логин спамера, нужен для информации
 
